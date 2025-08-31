@@ -1,0 +1,54 @@
+/* index.css */
+
+/* Apply to whole page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #fff8f0;   /* light cream background */
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+/* Main heading */
+h1 {
+  text-align: center;
+  color: #b22222;   /* dark red */
+}
+
+/* Section headings */
+h2 {
+  color: #d2691e;   /* chocolate brown */
+  margin-top: 20px;
+}
+
+/* Paragraph */
+p {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+/* Lists */
+ul, ol {
+  max-width: 500px;
+  margin: 0 auto 20px;
+  padding-left: 20px;
+}
+
+/* Image styling */
+figure {
+  text-align: center;
+  margin-top: 20px;
+}
+
+img {
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+figcaption {
+  margin-top: 8px;
+  font-style: italic;
+  color: #555;
+}
